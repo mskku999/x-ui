@@ -1,4 +1,4 @@
-# Misaka-blog x-ui 魔改优化版
+# Misaka-blog x-ui 魔改优化版 （等待修复）
 
 支持多协议多用户的 xray 面板
 
